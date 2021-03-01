@@ -15,9 +15,7 @@ Programming Experience: Every thing we leaned in class plus a cople youtube vide
 9th Grade Year: In the space below, write 2-5 sentences describing your programming experience in the previous year, even if you went to another school.
 
 
-_____________________________________________________________________________________
-_____________________________________________________________________________________
-_____________________________________________________________________________________
+I think we made the vr spaces with A frame last year? I forget what was last year vs. this year
 
 
 
