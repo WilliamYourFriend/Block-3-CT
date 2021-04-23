@@ -197,7 +197,7 @@ def editList():
 
     myList.remove(int(edit))
 
-    print('{} has been removed'.format(edit))        
+    print('{} has been removed'.format(edit))
         
 if __name__ == '__main__':
     mainProgram()
